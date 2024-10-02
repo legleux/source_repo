@@ -1,0 +1,3 @@
+[submodule "watched-repo"]
+	path = watched-repo
+	url = https://github.com/legleux/watched-repo.git
